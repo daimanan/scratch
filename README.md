@@ -1,2 +1,1 @@
-# scratch
-一起学习scratch编程
+# 一起学习scratch编程
