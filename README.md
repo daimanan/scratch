@@ -6,3 +6,5 @@
 
 [1-scratch软件的安装与功能介绍](./ch01/1-scratch软件的安装与功能介绍.md)
 
+[2-scratch中的角色控制](./ch02/2-scratch中的角色控制.md)
+
