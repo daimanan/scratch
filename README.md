@@ -12,6 +12,8 @@
 
 [4-scratch用户交互、变量、逻辑判断、运算、字符连接](./ch04)
 
+[5-scratch随机数、隐藏变量、重复执行](./ch05)
+
 # 在github学习资料地址
 
 # https://github.com/daimanan/scratch 
