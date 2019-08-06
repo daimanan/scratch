@@ -14,6 +14,8 @@
 
 [5-scratch随机数、隐藏变量、重复执行](./ch05)
 
+[6-scratch中的坐标系、键盘事件、修改角色坐标、移动、碰撞检测](./ch06)
+
 # 在github学习资料地址
 
 # https://github.com/daimanan/scratch 
